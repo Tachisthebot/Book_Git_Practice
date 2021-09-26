@@ -1,11 +1,3 @@
-this is gthe secomnd page of thegit command
-lzay
-yes wwe do have 2 fdiles
-momeyes we save onour local enu
-sodupaiddpsdsapdafifafi
-aei
-aei
-aee
-edaeede
-a
+we are making more better and clear text in the git
+intelj is very helpful for that
 ready to save them to the local
